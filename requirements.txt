@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-jose[cryptography] 
+passlib[bcrypt] 
+python-multipart
+sqlalchemy
+pymysql
+google-cloud-storage
+typing
+datetime
+pydantic
+uuid
+pydantic[email]
+tensorflow 
+pillow
