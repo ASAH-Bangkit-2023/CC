@@ -7,7 +7,7 @@ Here are some of the related repositories which are part of the same project:
 
 | Repository | Link |
 | --- | --- |
-| 📱 Mobile Development | [MD Repository](https://github.com/ASAH-Bangkit-2023/MD.git) |
+| 📱 Mobile Development | [MD Repository](https://github.com/ASAH-Bangkit-2023/MD) |
 | 🤖 Machine Learning | [ML Repository](https://github.com/ASAH-Bangkit-2023/ML) |
 
 ## 👷‍♂️CGP Architecture 
