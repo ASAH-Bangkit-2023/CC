@@ -5,7 +5,7 @@ import io
 
 load_model = tf.keras.models.load_model('tfmodel/checkpoint_model.h5')
 
-def predict_image_classes(uploaded, IMG_SIZE=(224, 224), threshold=0.75):
+def predict_image_classes(uploaded, IMG_SIZE=(224, 224), threshold=0.8):
         class_names = ['battery', 'biological', 'cardboard', 'clothes', 'glass', 'metal', 'paper', 'plastic', 'shoes', 'trash']
 
         class_info = get_class_info()
